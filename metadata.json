@@ -1,0 +1,8 @@
+
+{
+  "name": "Shit Kate Says",
+  "description": "A simple app to capture text and voice notes, and mark them as favorites.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
